@@ -1,0 +1,12 @@
+numpy
+
+# Optional dependencies for real RAG/LLM pipelines:
+# torch
+# transformers
+# sentence-transformers
+# faiss-cpu
+# langchain
+# fastapi
+# uvicorn
+# paddleocr
+# openai-whisper
